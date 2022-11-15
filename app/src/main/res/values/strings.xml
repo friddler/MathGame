@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="buttonAdd_text">Addition</string>
+    <string name="buttonSub_text">Subtraction</string>
+    <string name="buttonMulti_text">Multiplication</string>
+    <string name="button_playAgain">Play again</string>
+    <string name="button_Exit">Exit</string>
+    <string name="button_Ok">Ok</string>
+    <string name="button_Next">Next</string>
+    <string name="text_hint">Write your answer</string>
+    <string name="text_Congrats">Congratulations!</string>
+    <string name="textView_Result">Your score: </string>
+
+</resources>

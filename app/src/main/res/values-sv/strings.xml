@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MatteSpel</string>
+    <string name="buttonAdd_text">Addition</string>
+    <string name="buttonSub_text">Subtraktion</string>
+    <string name="buttonMulti_text">Multiplikation</string>
+    <string name="button_playAgain">Spela igen</string>
+    <string name="button_Exit">Avsluta</string>
+    <string name="button_Ok">Ok</string>
+    <string name="button_Next">Nästa</string>
+    <string name="text_hint">Skriv ditt svar</string>
+    <string name="text_Congrats">Grattis!</string>
+    <string name="textView_Result">Din poäng: </string>
+</resources>
